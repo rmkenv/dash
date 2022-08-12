@@ -1,0 +1,23 @@
+Fiscal Year,Scope,Source,CO2 (kg),CO2 (MTCDE),CH4 (kg),CH4 (MTCDE),N2O (kg),N2O (MTCDE),GHG MTCDE
+2019,1,Other On-Campus Stationary,"20,511,000","20,511.00",0,0,0,0,"20,511.00"
+2019,1,Direct Transportation,"636,285",636.28,34,0.96,22,5.91,643.16
+2019,1,Refrigerants & Chemicals,0,0,0,0,0,0,372.93
+2019,2,Purchased Electricity,"51,566,537","51,566.54","3,653",102.28,498,132.01,"51,800.83"
+2019,3,Faculty Commuting,"2,100,136","2,100.14",112,3.14,70,18.57,"2,121.84"
+2019,3,Staff Commuting,"3,734,008","3,734.01",199,5.58,125,33.01,"3,772.60"
+2019,3,Student Commuting,"19,441,517","19,441.52","1,037",29.05,649,171.88,"19,642.44"
+2019,3,Directly Financed Air Travel,"6,429,887","6,429.89",70,1.97,73,19.46,"6,451.32"
+2019,3,Paper Purchasing,0,0,0,0,0,0,257.87
+2019,3,T&D Losses,"2,640,454","2,640.45",187,5.24,26,6.76,"2,652.45"
+2019,3,Food,"1,216,993","1,216.99",0,0,0,0,"1,216.99"
+,,,,,,,,,
+Fiscal Year,Scope,CO2 (kg),CH4 (kg),N2O (kg),GHG MTCDE,,,,
+2019,1,"21,147,285",34,22,"21,527.09",,,,
+2019,2,"51,566,537","3,653",498,"51,800.83",,,,
+2019,3,"35,562,994","1,606",942,"36,115.51",,,,
+,,,,,,,,,
+Fiscal Year,CO2 (kg),CH4 (kg),N2O (kg),Gross MTCDE,Offsets (MTCDE),Compost (MTCDE),Non-Additional Sequestration (MTCDE),Biogenic (MT CO2),Net MTCDE
+2019,"108,276,816","5,294","1,463","109,443.42",0,-13.55,0,0,"109,429.87"
+,,,,,,,,,
+Export Date,Campus,eGrid Region,EF Version,GWP Version,Scope 2 Method,Radiative Forcing,Tags,,
+2/8/22 13:30,Main Campus,ERCT,2020,AR5 100-year,Location-Based,2.7,- All -,,
